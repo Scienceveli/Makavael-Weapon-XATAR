@@ -1,3 +1,6 @@
+## License and Terms
+This tool is licensed under the MIT License. Please read the [LICENSE](./LICENSE) file and the [Terms](./TERMS.md) for detailed information.
+
 <p align="left">
 <a href="#"><img title="Made in EGYPT" src="https://img.shields.io/badge/MADE%20IN-EGYPT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
