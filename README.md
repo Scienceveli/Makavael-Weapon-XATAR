@@ -3,40 +3,33 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Xweapon" src="https://i.ibb.co/z6BN4Sv/Xw.png" class="center"></a>
+<a href="#"><img title="Makavael Tools" src="https://i.ibb.co/z6BN4Sv/Xw.png" class="center"></a>
 <p align="center">
-<a href="https://github.com/Scienceveli"><img title="Author" src="https://img.shields.io/badge/Author-Ign0r3d--H4x0r-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/scienceveli"><img title="Author" src="https://img.shields.io/badge/Author-Makavael-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Scienceveli/followers"><img title="Followers" src="https://img.shields.io/github/followers/Scienceveli?color=blue&style=flat-square"></a>
-<a href="https://www.facebook.com/Bloodserver"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a>
+<a href="https://github.com/scienceveli/followers"><img title="Followers" src="https://img.shields.io/github/followers/scienceveli?color=blue&style=flat-square"></a>
+<a href="https://www.facebook.com/BloodServer"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a>
 </p>
-<h1 align="center">Xweapon v1.0</h1>
+<h1 align="center">Makavael Tools v1.0</h1>
 <p align="center">
 
      SMS Bomber for Educational Purposes
 
 </p>
 
-## ***About Xweapon***:
+## ***About Makavael Tools***:
 
-Xweapon is a Bash based script that allows it's users to bomb on any number without any LIMITATION.
+Makavael Tools is a Bash-based script that allows users to simulate SMS bombing for educational and testing purposes only.
 
-## Install & Run :
+## Install & Run:
 
-```
-apt update -y && apt upgrade && apt install curl && apt install git -y && git clone https://github.com/Scienceveli/Xweapon && cd Xweapon && bash Xweapon.sh
-```
-
-## ***Follow This Guy***
-
-
-
-* Page     :  https://www.facebook.com/Bloodserver
-
-* GitHub : https://www.github.com/Scienceveli
-
-### Warning
-
-***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
-
+```bash
+apt update -y && apt upgrade && apt install curl && apt install git -y && git clone https://github.com/scienceveli/Makavael-Tools && cd Makavael-Tools && bash Makavael.sh
+Follow Makavael
+Website : makavael.com
+Facebook : BloodServer
+GitHub : scienceveli
+LinkedIn : makavael
+Warning
+This tool is for educational purposes only. Misusing it for unethical actions is strictly prohibited. The author will not be responsible for any improper use.
